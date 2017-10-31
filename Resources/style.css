@@ -11,6 +11,10 @@ html {
   color: white;
 }
 
-.header {
+#main-header {
   font-size: 70px;
+}
+
+.header {
+  font-weight: bold;
 }
