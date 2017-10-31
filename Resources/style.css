@@ -18,3 +18,7 @@ html {
 .header {
   font-weight: bold;
 }
+
+.directory {
+  font-family: 18px;
+}
